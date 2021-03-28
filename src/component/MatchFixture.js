@@ -26,7 +26,7 @@ export default function MatchFixture() {
           utc: "+7",
         },
         headers: {
-          "X-API-Key": "24578cdb-fc01-4794-9bb0-865dd8ac405c",
+          "X-API-Key": "",
         },
       })
       .then((response) => {
